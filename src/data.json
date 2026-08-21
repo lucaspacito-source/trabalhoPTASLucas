@@ -1,18 +1,18 @@
 [
   {
     "id": 3,
-    "nome": "Gabriel",
-    "email": "gabriel@email.com"
+    "nome": "Lucas",
+    "email": "lucas@email.com"
   },
   {
     "id": 4,
-    "nome": "Gabriel",
-    "email": "gabriel@email.com"
+    "nome": "Lucas",
+    "email": "lucas@email.com"
   },
   {
     "id": 5,
-    "nome": "Gabriel",
-    "email": "gabriel@email.com"
+    "nome": "Lucas",
+    "email": "lucas@email.com"
   },
   {
     "id": 6,
@@ -27,11 +27,11 @@
   {
     "id": 8,
     "nome": "teste",
-    "email": "gabriel@gmail.com"
+    "email": "lucas@gmail.com"
   },
   {
     "id": 9,
     "nome": "teste",
-    "email": "gabriel@gmail.com"
+    "email": "lucas@gmail.com"
   }
 ]
